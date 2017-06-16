@@ -1,1 +1,1 @@
-只是占位用
+创建vim文件夹，存放sinps，具体文件在workbench里
